@@ -1,0 +1,7 @@
+node_modules
+.next
+.data
+.data-e2e
+package-lock.json
+verification
+test-results
